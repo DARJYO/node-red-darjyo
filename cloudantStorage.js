@@ -396,3 +396,5 @@ var cloudantStorage = {
 };
 
 module.exports = cloudantStorage;
+
+
