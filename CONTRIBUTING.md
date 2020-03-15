@@ -28,7 +28,6 @@ If you want to raise a pull-request with a new feature, or a refactoring
 of existing code, it may well get rejected if you haven't discussed it on
 the [forum](https://discourse.nodered.org) first.
 
-
 ### Developer's Certificate of Origin
 
 In order for us to accept pull-requests, we ask that all commits are signed to
