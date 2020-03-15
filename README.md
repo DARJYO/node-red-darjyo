@@ -1,19 +1,9 @@
 Node-RED IBM Cloud Starter Application
 ====================================
 
-
 ### Node-RED on IBM Cloud
 
-This repository is an example Node-RED application that can be deployed into
-IBM Cloud with only a couple clicks. Try it out for yourself right now by clicking:
-
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibm/node-red-app)
-
-### How does this work?
-
-When you click the button, you are taken to IBM Cloud where you get a pick a name
-for your application at which point the platform takes over, grabs the code from
-this repository and gets it deployed.
+This repository is an example Node-RED application 
 
 It will automatically create an instance of the Cloudant service and bind it to
 your app. This is where your Node-RED instance will store its data.
