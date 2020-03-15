@@ -87,7 +87,6 @@ var settings = module.exports = {
 };
 
 
-
 // Identify the Cloudant storage instance the application should be using.
 var storageServiceName;
 var storageServiceDetails;
@@ -137,3 +136,4 @@ if (!storageServiceName) {
     util.log("Using Cloudant service: "+storageServiceName+" db:"+settings.cloudantService.db+" prefix:"+settings.cloudantService.prefix);
     settings.storageModule = require("./cloudantStorage");
 }
+
